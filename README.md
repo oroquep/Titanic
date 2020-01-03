@@ -2,9 +2,13 @@
 PRAC 2 Tipologia i cicle de vida de les dades. Titanic Project
 
 ## Description
-Data analysis using R. Dataset analyzed: Titanic
+Data analysis using R. Dataset analyzed: Titanic. Academic purpose
 
 ## Files
+
+### Contribution.PNG
+- Contributions to the project.
+
 ### Roqué_Paniagua_Oriol_PRAC2.pdf 
 - Explanation, answers and code with output.
 
