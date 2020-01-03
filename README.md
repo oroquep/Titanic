@@ -29,3 +29,6 @@ Data analysis using R. Dataset analyzed: Titanic. Academic purpose
 
 ### orp_submission.csv
 - File submitted to Kaggle.
+
+### nn.png
+- Neural network model plot, that does not show on the pdf.
